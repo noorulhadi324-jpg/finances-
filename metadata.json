@@ -1,0 +1,8 @@
+{
+  "name": "FINOVA - Cross-Platform Finance Management System",
+  "description": "Enterprise-grade cross-platform finance management system with multi-tenant accounting, double-entry bookkeeping, budgeting, invoicing, and Supabase integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
